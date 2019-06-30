@@ -1,3 +1,5 @@
+_**NOTE:** This project has moved to: [Redux-Observable-Backend](https://github.com/Sawtaytoes/Redux-Observable-Backend)_.
+
 # Ghadyani Framework for Node
 
 For an example use case, look at [`./app.js`](app.js).
